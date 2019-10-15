@@ -53,6 +53,7 @@ const messages = {
   'preference.tab.changelog': '更新日志',
   'preference.extensions.clipExtensions.tooltip': '点击 🌟选择默认插件',
   'preference.accountList.verify': '校验',
+  'preference.accountList.add': '添加',
   'backend.services.youdao.unauthorizedErrorMessage': '授权失败，请登录网页版有道云笔记。',
   'backend.services.notion.unauthorizedErrorMessage': '授权失败，请登录网页版 Notion。',
   'preference.basic.update.description': '因为审核需要一周，所以 chrome 商店的版本会延迟几个版本。',
@@ -64,6 +65,7 @@ const messages = {
   'preference.extensions.install': '安装',
   'preference.extensions.update': '更新',
   'preference.extensions.require.update': '需要剪藏更新到 {version} 版本',
+  'backend.services.shimo.name': '石墨',
 };
 
 const model: LocaleModel = {
